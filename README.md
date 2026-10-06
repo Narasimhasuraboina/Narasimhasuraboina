@@ -1,14 +1,6 @@
- # 👋 Hi, I'm Narasimha
+# 👋 Hi, I'm Narasimha
 
 ### Full-Stack Developer
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,git,github,vscode&perline=10" />
-</p>
-
----
-
-## 🧑‍💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,git,github,vscode&perline=10" />
@@ -21,7 +13,7 @@
 ### 🩸 Blood Donation Management System
 
 A full-stack application for managing blood donors,
-blood requests and donation records.
+blood requests, and donation records.
 
 **React · Node.js · Express.js · MySQL**
 
@@ -95,7 +87,7 @@ blood requests and donation records.
 
 <p align="center">
 
-`React` &nbsp; `Node.js` &nbsp; `Express.js` &nbsp; `MySQL`
+`React` · `Node.js` · `Express.js` · `MySQL`
 
 </p>
 
