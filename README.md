@@ -1,15 +1,10 @@
 # 👋 Hi, I'm Narasimha
 
-### 💻 Full-Stack Developer | JavaScript Enthusiast | Problem Solver
+### Full-Stack Developer
 
-I enjoy building practical web applications and learning new technologies
-through real-world projects.
+Currently working with:
 
-- 🔭 Currently building full-stack web applications
-- 🌱 Learning and improving my skills in modern web development
-- 💡 Interested in React, Node.js, APIs and databases
-- 🩸 Built a Blood Donation Management System
-- 🚀 Always learning, building and experimenting
+`JavaScript` `React` `Node.js` `Express.js` `MySQL`
 
 ---
 
@@ -25,14 +20,12 @@ through real-world projects.
 
 ### 🩸 Blood Donation Management System
 
-A full-stack web application designed to help manage blood donors,
-blood requests and donation records.
+A full-stack web application for managing blood donors, blood requests,
+and donation records.
 
-**Built with:**
+**Tech:** React • Node.js • Express.js • MySQL
 
-`React` `Node.js` `Express.js` `MySQL`
-
-🔗 [View Project](https://github.com/Narasimhasuraboina/Blood-donation)
+[View Project](https://github.com/Narasimhasuraboina/Blood-donation)
 
 ---
 
@@ -61,7 +54,7 @@ blood requests and donation records.
 
 ---
 
-## 📈 My Contributions
+## 📈 Contributions
 
 <p align="center">
   <img
@@ -72,31 +65,28 @@ blood requests and donation records.
 
 ---
 
-## 📂 Other Projects
+## 📂 Projects
 
 | Project | Description |
 |---|---|
-| 🩸 [Blood Donation](https://github.com/Narasimhasuraboina/Blood-donation) | Full-stack blood donation management system |
-| 🌐 [Blood](https://github.com/Narasimhasuraboina/blood) | Blood donation related project |
-| 🧪 [Play Ground](https://github.com/Narasimhasuraboina/play_ground) | Experiments and practice projects |
-| ⚙️ [CMD](https://github.com/Narasimhasuraboina/cmd) | Development / command-line experiments |
+| 🩸 [Blood Donation](https://github.com/Narasimhasuraboina/Blood-donation) | Blood donation management system |
+| 🩸 [Blood](https://github.com/Narasimhasuraboina/blood) | Blood donation related project |
+| 🧪 [Play Ground](https://github.com/Narasimhasuraboina/play_ground) | Experiments and practice |
+| ⚙️ [CMD](https://github.com/Narasimhasuraboina/cmd) | Development experiments |
 | 🚀 [Project Phoenix](https://github.com/Narasimhasuraboina/project-phoenix) | Development project |
-| ☕ [Java](https://github.com/Narasimhasuraboina/java) | Java learning and practice |
+| ☕ [Java](https://github.com/Narasimhasuraboina/java) | Java practice and projects |
 
 ---
 
-## 🎯 2026 Goals
+## 📌 Currently
 
-- 🚀 Build more full-stack applications
-- ⚛️ Become stronger with React
-- 🟢 Improve Node.js and backend development
-- 🗄️ Improve database design and SQL
-- 🤝 Contribute to open-source projects
-- 📚 Keep learning and building consistently
+Learning and working with:
+
+`React` `Node.js` `Express.js` `MySQL`
 
 ---
 
-## 📫 Connect With Me
+## 📫 GitHub
 
 <p align="center">
   <a href="https://github.com/Narasimhasuraboina">
@@ -107,5 +97,5 @@ blood requests and donation records.
 ---
 
 <p align="center">
-  <b>💻 Code • Learn • Build • Repeat 🚀</b>
+  <b>Code • Learn • Build</b>
 </p>
