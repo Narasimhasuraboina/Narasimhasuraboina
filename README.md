@@ -67,6 +67,7 @@ blood requests, and donation records.
   <a href="https://github.com/Narasimhasuraboina/Blood-donation">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narasimhasuraboina&repo=Blood-donation&theme=tokyonight&hide_border=true" />
   </a>
+
   <a href="https://github.com/Narasimhasuraboina/project-phoenix">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narasimhasuraboina&repo=project-phoenix&theme=tokyonight&hide_border=true" />
   </a>
@@ -76,6 +77,7 @@ blood requests, and donation records.
   <a href="https://github.com/Narasimhasuraboina/play_ground">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narasimhasuraboina&repo=play_ground&theme=tokyonight&hide_border=true" />
   </a>
+
   <a href="https://github.com/Narasimhasuraboina/java">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narasimhasuraboina&repo=java&theme=tokyonight&hide_border=true" />
   </a>
@@ -93,12 +95,22 @@ blood requests, and donation records.
 
 ---
 
-## 📫 Connect
+## 🔗 Connect
 
 <p align="center">
-  <a href="https://github.com/Narasimhasuraboina">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
+<a href="https://github.com/Narasimhasuraboina">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/Narasimhasuraboina">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/Narasimhasuraboina/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
 </p>
 
 ---
