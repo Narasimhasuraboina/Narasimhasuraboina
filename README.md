@@ -1,14 +1,14 @@
-# 👋 Hi, I'm Narasimha
+ # 👋 Hi, I'm Narasimha
 
 ### Full-Stack Developer
 
-Currently working with:
-
-`JavaScript` `React` `Node.js` `Express.js` `MySQL`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,git,github,vscode&perline=10" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,git,github,vscode&perline=10" />
@@ -20,12 +20,16 @@ Currently working with:
 
 ### 🩸 Blood Donation Management System
 
-A full-stack web application for managing blood donors, blood requests,
-and donation records.
+A full-stack application for managing blood donors,
+blood requests and donation records.
 
-**Tech:** React • Node.js • Express.js • MySQL
+**React · Node.js · Express.js · MySQL**
 
-[View Project](https://github.com/Narasimhasuraboina/Blood-donation)
+<p>
+  <a href="https://github.com/Narasimhasuraboina/Blood-donation">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -34,11 +38,11 @@ and donation records.
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Narasimhasuraboina&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
+    height="180"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narasimhasuraboina&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
+    height="180"
   />
 </p>
 
@@ -65,28 +69,39 @@ and donation records.
 
 ---
 
-## 📂 Projects
+## 🗂️ Projects
 
-| Project | Description |
-|---|---|
-| 🩸 [Blood Donation](https://github.com/Narasimhasuraboina/Blood-donation) | Blood donation management system |
-| 🩸 [Blood](https://github.com/Narasimhasuraboina/blood) | Blood donation related project |
-| 🧪 [Play Ground](https://github.com/Narasimhasuraboina/play_ground) | Experiments and practice |
-| ⚙️ [CMD](https://github.com/Narasimhasuraboina/cmd) | Development experiments |
-| 🚀 [Project Phoenix](https://github.com/Narasimhasuraboina/project-phoenix) | Development project |
-| ☕ [Java](https://github.com/Narasimhasuraboina/java) | Java practice and projects |
+<p align="center">
+  <a href="https://github.com/Narasimhasuraboina/Blood-donation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narasimhasuraboina&repo=Blood-donation&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Narasimhasuraboina/project-phoenix">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narasimhasuraboina&repo=project-phoenix&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Narasimhasuraboina/play_ground">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narasimhasuraboina&repo=play_ground&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Narasimhasuraboina/java">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narasimhasuraboina&repo=java&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 
 ## 📌 Currently
 
-Learning and working with:
+<p align="center">
 
-`React` `Node.js` `Express.js` `MySQL`
+`React` &nbsp; `Node.js` &nbsp; `Express.js` &nbsp; `MySQL`
+
+</p>
 
 ---
 
-## 📫 GitHub
+## 📫 Connect
 
 <p align="center">
   <a href="https://github.com/Narasimhasuraboina">
@@ -97,5 +112,9 @@ Learning and working with:
 ---
 
 <p align="center">
-  <b>Code • Learn • Build</b>
+  <img src="https://komarev.com/ghpvc/?username=Narasimhasuraboina&style=flat-square" />
+</p>
+
+<p align="center">
+  <b>⚡ Code • Learn • Build</b>
 </p>
