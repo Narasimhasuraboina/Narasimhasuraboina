@@ -98,7 +98,7 @@ A full-stack application designed to manage blood donors, blood requests, and do
 
 ---
 
-## 🧊 3D GitHub Contributions
+## 🧊GitHub Contributions
 
 <div align="center">
 
