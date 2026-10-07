@@ -56,13 +56,16 @@ A full-stack application for managing blood donors, blood requests, and donation
     />
   </a>
 </p>
-## 🔥 LeetCode Streak
+ ## 🔥 LeetCode Streak
 
 <p align="center">
-  <img
-    src="https://github-readme-leetcode-stats.vercel.app/api/card?sections=profile,solved,streak,heatmap&theme=tokyonight"
-    alt="LeetCode Stats"
-  />
+  <a href="https://leetcode.com/u/Narasimhasuraboina/">
+    <img src="https://leetinfo-api.vercel.app/api/badge?username=Narasimhasuraboina&stat=streak&label=Current%20Streak&color=FFA116" />
+  </a>
+
+  <a href="https://leetcode.com/u/Narasimhasuraboina/">
+    <img src="https://leetinfo-api.vercel.app/api/badge?username=Narasimhasuraboina&stat=longeststreak&label=Longest%20Streak&color=58A6FF" />
+  </a>
 </p>
 ## 🔥 GitHub Streak
 
