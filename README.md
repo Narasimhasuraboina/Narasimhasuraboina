@@ -44,13 +44,15 @@ A full-stack application for managing blood donors, blood requests, and donation
 
 ---
 
+---
+
 ## 🧩 LeetCode Journey
 
 <p align="center">
   <a href="https://leetcode.com/u/Narasimhasuraboina/">
     <img
       src="https://leetcard.jacoblin.cool/Narasimhasuraboina?theme=dark&font=baloo&ext=heatmap"
-      alt="Narasimha's LeetCode Stats"
+      alt="Narasimha's LeetCode Journey"
     />
   </a>
 </p>
