@@ -83,12 +83,18 @@ A full-stack application designed to manage blood donors, blood requests, and do
 
 ---
 
-   <img
+  ## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Narasimhasuraboina&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+  <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narasimhasuraboina&layout=compact&theme=tokyonight&hide_border=true"
     height="180"
   />
 </p>
-
 ---
 
 ---
