@@ -13,9 +13,11 @@
 <a href="https://github.com/Narasimhasuraboina">
   <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/Narasimhasuraboina">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://leetcode.com/u/Narasimhasuraboina/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
@@ -66,25 +68,61 @@ A full-stack application designed to manage blood donors, blood requests, and do
 <div align="center">
 
 <a href="https://github.com/Narasimhasuraboina">
-  <img src="https://github-readme-stats.vercel.app/api?username=Narasimhasuraboina&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Narasimhasuraboina&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    height="170"
+  />
 </a>
 
 <a href="https://github.com/Narasimhasuraboina">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narasimhasuraboina&layout=compact&theme=github_dark&hide_border=true" height="170" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narasimhasuraboina&layout=compact&theme=github_dark&hide_border=true"
+    height="170"
+  />
 </a>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=Narasimhasuraboina&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=58A6FF" />
 
 </div>
 
 ---
 
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com/?user=Narasimhasuraboina&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=58A6FF"
+  alt="Narasimha's GitHub Streak"
+/>
+
+</div>
+
 ---
 
- 
----
+## 🧊 3D GitHub Contributions
+
+<div align="center">
+
+<picture>
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Narasimhasuraboina/Narasimhasuraboina/main/profile-3d-contrib/profile-night-rainbow.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Narasimhasuraboina/Narasimhasuraboina/main/profile-3d-contrib/profile-green-animate.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/Narasimhasuraboina/Narasimhasuraboina/main/profile-3d-contrib/profile-night-rainbow.svg"
+    alt="Narasimha's 3D GitHub Contributions"
+    width="900"
+  />
+
+</picture>
+
+</div>
 
 ---
 
@@ -94,7 +132,10 @@ A full-stack application designed to manage blood donors, blood requests, and do
 
 <a href="https://leetcode.com/u/Narasimhasuraboina/">
 
-<img src="https://leetcard.jacoblin.cool/Narasimhasuraboina?theme=dark&font=baloo&ext=heatmap" alt="Narasimha's LeetCode Stats" />
+<img
+  src="https://leetcard.jacoblin.cool/Narasimhasuraboina?theme=dark&font=baloo&ext=heatmap"
+  alt="Narasimha's LeetCode Stats"
+/>
 
 </a>
 
@@ -105,11 +146,17 @@ A full-stack application designed to manage blood donors, blood requests, and do
 <div align="center">
 
 <a href="https://leetcode.com/u/Narasimhasuraboina/">
-  <img src="https://leetinfo-api.vercel.app/api/badge?username=Narasimhasuraboina&stat=streak&label=Current%20Streak&color=FFA116" />
+  <img
+    src="https://leetinfo-api.vercel.app/api/badge?username=Narasimhasuraboina&stat=streak&label=Current%20Streak&color=FFA116"
+    alt="LeetCode Current Streak"
+  />
 </a>
 
 <a href="https://leetcode.com/u/Narasimhasuraboina/">
-  <img src="https://leetinfo-api.vercel.app/api/badge?username=Narasimhasuraboina&stat=longeststreak&label=Longest%20Streak&color=58A6FF" />
+  <img
+    src="https://leetinfo-api.vercel.app/api/badge?username=Narasimhasuraboina&stat=longeststreak&label=Longest%20Streak&color=58A6FF"
+    alt="LeetCode Longest Streak"
+  />
 </a>
 
 </div>
@@ -149,21 +196,29 @@ A full-stack application designed to manage blood donors, blood requests, and do
 <div align="center">
 
 <a href="https://github.com/Narasimhasuraboina/Blood-donation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narasimhasuraboina&repo=Blood-donation&theme=github_dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Narasimhasuraboina&repo=Blood-donation&theme=github_dark&hide_border=true"
+  />
 </a>
 
 <a href="https://github.com/Narasimhasuraboina/project-phoenix">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narasimhasuraboina&repo=project-phoenix&theme=github_dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Narasimhasuraboina&repo=project-phoenix&theme=github_dark&hide_border=true"
+  />
 </a>
 
 <br>
 
 <a href="https://github.com/Narasimhasuraboina/play_ground">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narasimhasuraboina&repo=play_ground&theme=github_dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Narasimhasuraboina&repo=play_ground&theme=github_dark&hide_border=true"
+  />
 </a>
 
 <a href="https://github.com/Narasimhasuraboina/java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narasimhasuraboina&repo=java&theme=github_dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Narasimhasuraboina&repo=java&theme=github_dark&hide_border=true"
+  />
 </a>
 
 </div>
@@ -218,7 +273,10 @@ A full-stack application designed to manage blood donors, blood requests, and do
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Narasimhasuraboina&style=flat-square&color=58A6FF" />
+<img
+  src="https://komarev.com/ghpvc/?username=Narasimhasuraboina&style=flat-square&color=58A6FF"
+  alt="Profile Views"
+/>
 
 <br><br>
 
@@ -226,6 +284,9 @@ A full-stack application designed to manage blood donors, blood requests, and do
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=100&section=footer&animation=fadeIn"
+  width="100%"
+/>
 
 </div>
