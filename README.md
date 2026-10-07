@@ -42,23 +42,15 @@ A full-stack application for managing blood donors, blood requests, and donation
 
 ---
 
-## 🧩 Coding Journey
+---
+
+## 🧩 LeetCode Journey
 
 <p align="center">
   <a href="https://leetcode.com/u/Narasimhasuraboina/">
     <img
       src="https://leetcard.jacoblin.cool/Narasimhasuraboina?theme=dark&font=baloo&ext=heatmap"
-      width="700"
-      alt="Narasimha's LeetCode Coding Journey"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/Narasimhasuraboina/">
-    <img
-      src="https://img.shields.io/badge/VIEW%20LEETCODE%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-      alt="View LeetCode Profile"
+      alt="Narasimha's LeetCode Stats"
     />
   </a>
 </p>
