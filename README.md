@@ -273,10 +273,7 @@ A full-stack application designed to manage blood donors, blood requests, and do
 
 <div align="center">
 
-<img
-  src="https://komarev.com/ghpvc/?username=Narasimhasuraboina&style=flat-square&color=58A6FF"
-  alt="Profile Views"
-/>
+ 
 
 <br><br>
 
