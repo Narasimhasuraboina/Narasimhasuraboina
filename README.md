@@ -28,7 +28,7 @@
 
 ## 👨‍💻 About Me
 
-I'm Narasimha, a developer from India who enjoys building things and figuring out how they work.
+I'm Narasimha, a developer who build things and figuring out how they work.
 
 Currently focused on:
 
@@ -284,9 +284,6 @@ A full-stack application designed to manage blood donors, blood requests, and do
 
 <br><br>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=100&section=footer&animation=fadeIn"
-  width="100%"
-/>
+ 
 
 </div>
