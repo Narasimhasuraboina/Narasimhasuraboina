@@ -81,13 +81,25 @@ A full-stack application designed to manage blood donors, blood requests, and do
 
 ---
 
+---
+
 ## 🧊 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Narasimhasuraboina&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%" />
+<a href="https://github.com/Narasimhasuraboina">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Narasimhasuraboina&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
+  width="95%"
+  alt="Narasimha's GitHub Activity Graph"
+/>
+
+</a>
 
 </div>
+
+---
 
 ---
 
