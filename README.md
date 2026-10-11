@@ -1,26 +1,29 @@
+
 <div align="center">
 
-<a href="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=140&section=header&text=Narasimha%20Suraboina&fontSize=38&fontColor=58A6FF&fontAlignY=70&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=140&section=header&text=Narasimha%20Suraboina&fontSize=38&fontColor=58A6FF&fontAlignY=70&animation=fadeIn" width="100%" />
+<a href="https://github.com/Narasimhasuraboina">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=180&section=header&text=Narasimha%20Suraboina&fontSize=40&fontColor=58A6FF&fontAlignY=38&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Video%20Editor&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Narasimha Suraboina profile header"/>
 </a>
 
-### Full-Stack Developer · Problem Solver · Video Editor
+<a href="https://readme-typing-svg.demolab.com/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+full-stack+applications;Learning+DSA+one+problem+at+a+time;Turning+ideas+into+working+projects;Coding+%7C+Editing+%7C+Creating" alt="Typing SVG"/>
+</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+full-stack+web+applications;Learning+DSA+one+problem+at+a+time;Turning+ideas+into+working+projects;Coding+%7C+Editing+%7C+Creating)](https://git.io/typing-svg)
-
-<br>
+<br/>
 
 <a href="https://github.com/Narasimhasuraboina">
-  <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
 <a href="https://www.linkedin.com/in/Narasimhasuraboina">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://leetcode.com/u/Narasimhasuraboina/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
-<a href="https://leetcode.com/u/Narasimhasuraboina/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Narasimhasuraboina&style=flat-square&color=1f6feb&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
@@ -28,18 +31,33 @@
 
 ## 👨‍💻 About Me
 
-I'm Narasimha, a developer who build things and figuring out how they work.
+I'm Narasimha — a developer who enjoys building things, understanding how they work, and turning ideas into real projects.
 
-Currently focused on:
+- 🌐 Exploring full-stack web development
+- ⚛️ Building with React, Node.js, and Express
+- 🧠 Practicing Data Structures & Algorithms
+- 🗄️ Learning backend architecture and databases
+- 🐧 Exploring Linux, Bash, and developer tools
+- 🎬 Video editor interested in cinematic storytelling
+- 📷 Photography, creative experiments, and visual design
 
-- 🌐 Full-stack web development
-- 🧠 Data Structures & Algorithms
-- ⚛️ React + Node.js
-- 🗄️ Backend development and databases
-- 🎬 Video editing and visual storytelling
-- 🐧 Linux and developer tooling
+> Learn → Build → Break → Fix → Repeat.
 
-> **Learn → Build → Break → Fix → Repeat.**
+---
+
+## ⚡ Current Focus
+
+<div align="center">
+
+| Area | Current focus |
+|:---:|:---|
+| 🌐 Web Development | React, Node.js, Express |
+| 🧠 Problem Solving | Java, DSA, LeetCode |
+| 🗄️ Databases | MySQL, SQLite |
+| 🐧 Systems | Linux, Bash, Git |
+| 🎬 Creative | DaVinci Resolve, cinematic editing |
+
+</div>
 
 ---
 
@@ -47,79 +65,64 @@ Currently focused on:
 
 <div align="center">
 
-### Blood Donation Management System
+<a href="https://github.com/Narasimhasuraboina/Blood-donation">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narasimhasuraboina&repo=Blood-donation&theme=github_dark&hide_border=true" alt="Blood Donation Management System"/>
+</a>
 
-A full-stack application designed to manage blood donors, blood requests, and donation records.
+**Blood Donation Management System**
 
-**React · Node.js · Express.js · MySQL**
+A full-stack application for managing blood donors, donation records, and blood requests.
 
-<br>
+`React` · `Node.js` · `Express.js` · `MySQL`
 
 <a href="https://github.com/Narasimhasuraboina/Blood-donation">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Explore project"/>
 </a>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/Narasimhasuraboina">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Narasimhasuraboina&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-    height="170"
-  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Narasimhasuraboina&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
 </a>
+<a href="https://github.com/Narasimhasuraboina">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narasimhasuraboina&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+</a>
+
+<br/><br/>
 
 <a href="https://github.com/Narasimhasuraboina">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narasimhasuraboina&layout=compact&theme=github_dark&hide_border=true"
-    height="170"
-  />
+  <img width="90%" src="https://streak-stats.demolab.com/?user=Narasimhasuraboina&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub streak statistics"/>
 </a>
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## 🧊 Contribution Activity
 
 <div align="center">
 
-<img
-  src="https://streak-stats.demolab.com/?user=Narasimhasuraboina&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=58A6FF"
-  alt="Narasimha's GitHub Streak"
-/>
+<a href="https://github.com/Narasimhasuraboina">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Narasimhasuraboina&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+</a>
 
-</div>
+<br/>
 
----
-
-## 🧊GitHub Contributions
-
-<div align="center">
+<!--
+These SVGs are generated by your GitHub Actions workflow.
+Ensure the files exist on your main branch before using these URLs.
+-->
 
 <picture>
-
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Narasimhasuraboina/Narasimhasuraboina/main/profile-3d-contrib/profile-night-rainbow.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Narasimhasuraboina/Narasimhasuraboina/main/profile-3d-contrib/profile-green-animate.svg"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/Narasimhasuraboina/Narasimhasuraboina/main/profile-3d-contrib/profile-night-rainbow.svg"
-    alt="Narasimha's 3D GitHub Contributions"
-    width="900"
-  />
-
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Narasimhasuraboina/Narasimhasuraboina/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Narasimhasuraboina/Narasimhasuraboina/main/profile-3d-contrib/profile-green-animate.svg"/>
+  <img width="95%" src="https://raw.githubusercontent.com/Narasimhasuraboina/Narasimhasuraboina/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution calendar"/>
 </picture>
 
 </div>
@@ -131,32 +134,16 @@ A full-stack application designed to manage blood donors, blood requests, and do
 <div align="center">
 
 <a href="https://leetcode.com/u/Narasimhasuraboina/">
-
-<img
-  src="https://leetcard.jacoblin.cool/Narasimhasuraboina?theme=dark&font=baloo&ext=heatmap"
-  alt="Narasimha's LeetCode Stats"
-/>
-
+  <img src="https://leetcard.jacoblin.cool/Narasimhasuraboina?theme=dark&font=baloo&ext=heatmap" alt="LeetCode statistics and activity heatmap"/>
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
+<br/><br/>
 
 <a href="https://leetcode.com/u/Narasimhasuraboina/">
-  <img
-    src="https://leetinfo-api.vercel.app/api/badge?username=Narasimhasuraboina&stat=streak&label=Current%20Streak&color=FFA116"
-    alt="LeetCode Current Streak"
-  />
+  <img src="https://leetinfo-api.vercel.app/api/badge?username=Narasimhasuraboina&stat=streak&label=Current%20Streak&color=FFA116" alt="LeetCode current streak"/>
 </a>
-
 <a href="https://leetcode.com/u/Narasimhasuraboina/">
-  <img
-    src="https://leetinfo-api.vercel.app/api/badge?username=Narasimhasuraboina&stat=longeststreak&label=Longest%20Streak&color=58A6FF"
-    alt="LeetCode Longest Streak"
-  />
+  <img src="https://leetinfo-api.vercel.app/api/badge?username=Narasimhasuraboina&stat=longeststreak&label=Longest%20Streak&color=58A6FF" alt="LeetCode longest streak"/>
 </a>
 
 </div>
@@ -167,58 +154,44 @@ A full-stack application designed to manage blood donors, blood requests, and do
 
 <div align="center">
 
-### Languages
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=js,java,python,html,css&perline=5" />
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css&theme=dark" alt="Java, JavaScript, Python, HTML, CSS"/>
 
-### Frontend
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind&perline=5" />
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="React, Vite, Tailwind CSS"/>
 
-### Backend & Database
+**Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sqlite&perline=5" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sqlite&theme=dark" alt="Node.js, Express, MySQL, SQLite"/>
 
-### Tools & Systems
+**Tools & Systems**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,bash&perline=6" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,bash&theme=dark" alt="Git, GitHub, VS Code, Docker, Linux, Bash"/>
 
-### Creative
+**Creative Tools**
 
-🎬 **DaVinci Resolve** · 📷 **Photography** · 🎞️ **Video Editing**
+<br/>
+
+🎬 DaVinci Resolve &nbsp;·&nbsp; 📷 Photography &nbsp;·&nbsp; 🎞️ Video Editing
 
 </div>
 
 ---
 
-## 🚀 Projects
+## 🚀 More Projects
 
 <div align="center">
 
-<a href="https://github.com/Narasimhasuraboina/Blood-donation">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Narasimhasuraboina&repo=Blood-donation&theme=github_dark&hide_border=true"
-  />
-</a>
-
 <a href="https://github.com/Narasimhasuraboina/project-phoenix">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Narasimhasuraboina&repo=project-phoenix&theme=github_dark&hide_border=true"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narasimhasuraboina&repo=project-phoenix&theme=github_dark&hide_border=true" alt="Project Phoenix"/>
 </a>
-
-<br>
-
 <a href="https://github.com/Narasimhasuraboina/play_ground">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Narasimhasuraboina&repo=play_ground&theme=github_dark&hide_border=true"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narasimhasuraboina&repo=play_ground&theme=github_dark&hide_border=true" alt="Playground"/>
 </a>
-
 <a href="https://github.com/Narasimhasuraboina/java">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Narasimhasuraboina&repo=java&theme=github_dark&hide_border=true"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narasimhasuraboina&repo=java&theme=github_dark&hide_border=true" alt="Java practice"/>
 </a>
 
 </div>
@@ -229,58 +202,38 @@ A full-stack application designed to manage blood donors, blood requests, and do
 
 <div align="center">
 
-**Video Editing · Cinematic Storytelling · Photography · Anime · Music**
+I enjoy combining technology with creativity.
 
-<br>
+**Cinematic Editing · Photography · Visual Storytelling · Anime · Music**
 
-> *I don't just want to write code.*
->
-> *I want to build things worth remembering.*
+<br/>
 
-</div>
+*I don't just want to write code.*
 
----
-
-## 📌 Currently
-
-<div align="center">
-
-`React` · `Node.js` · `Express.js` · `MySQL` · `Java` · `DSA`
+*I want to build things worth remembering.*
 
 </div>
 
 ---
 
-## 🔗 Connect With Me
+## 🤝 Connect
 
 <div align="center">
 
 <a href="https://github.com/Narasimhasuraboina">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
 </a>
-
 <a href="https://www.linkedin.com/in/Narasimhasuraboina">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
 </a>
-
 <a href="https://leetcode.com/u/Narasimhasuraboina/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile"/>
 </a>
 
-</div>
+<br/><br/>
 
----
-
-<div align="center">
-
- 
-
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=100&section=footer" width="100%" alt="Footer"/>
 
 **⚡ Code · Learn · Build · Create**
-
-<br><br>
-
- 
 
 </div>
