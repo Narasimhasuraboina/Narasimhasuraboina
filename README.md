@@ -174,22 +174,82 @@ Ensure the files exist on your main branch before using these URLs.
 
 ---
 
-## 🚀 More Projects
+## 🚀 Projects & Repositories
 
 <div align="center">
 
-<a href="https://github.com/Narasimhasuraboina/project-phoenix">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narasimhasuraboina&repo=project-phoenix&theme=github_dark&hide_border=true" alt="Project Phoenix"/>
-</a>
-<a href="https://github.com/Narasimhasuraboina/play_ground">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narasimhasuraboina&repo=play_ground&theme=github_dark&hide_border=true" alt="Playground"/>
-</a>
-<a href="https://github.com/Narasimhasuraboina/java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narasimhasuraboina&repo=java&theme=github_dark&hide_border=true" alt="Java practice"/>
-</a>
+Explore my public repositories — from applications and experiments to coding practice.
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/Narasimhasuraboina/Blood-donation"><strong>🩸 Blood Donation</strong></a><br/>
+      <sub>Blood Donation Management System</sub><br/>
+      <a href="https://github.com/Narasimhasuraboina/Blood-donation"><img src="https://img.shields.io/github/stars/Narasimhasuraboina/Blood-donation?style=flat&color=58A6FF&label=stars" alt="Blood Donation stars"/></a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Narasimhasuraboina/blood"><strong>🩸 blood</strong></a><br/>
+      <sub>Blood-related repository</sub><br/>
+      <a href="https://github.com/Narasimhasuraboina/blood"><img src="https://img.shields.io/github/stars/Narasimhasuraboina/blood?style=flat&color=58A6FF&label=stars" alt="blood repository stars"/></a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Narasimhasuraboina/Chatforge"><strong>💬 Chatforge</strong></a><br/>
+      <sub>Chat application project</sub><br/>
+      <a href="https://github.com/Narasimhasuraboina/Chatforge"><img src="https://img.shields.io/github/stars/Narasimhasuraboina/Chatforge?style=flat&color=58A6FF&label=stars" alt="Chatforge stars"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Narasimhasuraboina/Screen-ai"><strong>🤖 Screen-ai</strong></a><br/>
+      <sub>AI browser assistant project</sub><br/>
+      <a href="https://github.com/Narasimhasuraboina/Screen-ai"><img src="https://img.shields.io/github/stars/Narasimhasuraboina/Screen-ai?style=flat&color=58A6FF&label=stars" alt="Screen-ai stars"/></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Narasimhasuraboina/spotify-to-apple"><strong>🎵 Spotify to Apple</strong></a><br/>
+      <sub>Music library migration tool</sub><br/>
+      <a href="https://github.com/Narasimhasuraboina/spotify-to-apple"><img src="https://img.shields.io/github/stars/Narasimhasuraboina/spotify-to-apple?style=flat&color=58A6FF&label=stars" alt="Spotify to Apple stars"/></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Narasimhasuraboina/Travel"><strong>✈️ Travel</strong></a><br/>
+      <sub>Travel project</sub><br/>
+      <a href="https://github.com/Narasimhasuraboina/Travel"><img src="https://img.shields.io/github/stars/Narasimhasuraboina/Travel?style=flat&color=58A6FF&label=stars" alt="Travel stars"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Narasimhasuraboina/portfolio"><strong>🧑‍💻 Portfolio</strong></a><br/>
+      <sub>Portfolio website</sub><br/>
+      <a href="https://github.com/Narasimhasuraboina/portfolio"><img src="https://img.shields.io/github/stars/Narasimhasuraboina/portfolio?style=flat&color=58A6FF&label=stars" alt="Portfolio stars"/></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Narasimhasuraboina/project-phoenix"><strong>🔥 Project Phoenix</strong></a><br/>
+      <sub>Project repository</sub><br/>
+      <a href="https://github.com/Narasimhasuraboina/project-phoenix"><img src="https://img.shields.io/github/stars/Narasimhasuraboina/project-phoenix?style=flat&color=58A6FF&label=stars" alt="Project Phoenix stars"/></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Narasimhasuraboina/fully-vibe-coded"><strong>🧪 fully-vibe-coded</strong></a><br/>
+      <sub>Creative coding project</sub><br/>
+      <a href="https://github.com/Narasimhasuraboina/fully-vibe-coded"><img src="https://img.shields.io/github/stars/Narasimhasuraboina/fully-vibe-coded?style=flat&color=58A6FF&label=stars" alt="fully-vibe-coded stars"/></a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
+### 🧰 Learning & Experiments
+
+| Repository | Open |
+|:--|:--:|
+| ⚛️ **Namaste-react** — React learning | [View ↗](https://github.com/Narasimhasuraboina/Namaste-react) |
+| ⚛️ **react** — React experiments | [View ↗](https://github.com/Narasimhasuraboina/react) |
+| ☕ **java** — Java practice | [View ↗](https://github.com/Narasimhasuraboina/java) |
+| 🌐 **html_project** — HTML project | [View ↗](https://github.com/Narasimhasuraboina/html_project) |
+| 🧩 **play_ground** — experiments and practice | [View ↗](https://github.com/Narasimhasuraboina/play_ground) |
+| 🐚 **terminal** — terminal-related project | [View ↗](https://github.com/Narasimhasuraboina/terminal) |
+| 🐚 **cmd** — command-line repository | [View ↗](https://github.com/Narasimhasuraboina/cmd) |
+| 🎨 **visual** — visual project | [View ↗](https://github.com/Narasimhasuraboina/visual) |
+
+> Repository cards and star counts are linked to GitHub, so the displayed star badges update automatically.
 ---
 
 ## 🎬 Beyond Code
