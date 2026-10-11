@@ -31,18 +31,12 @@
 
 ## 👨‍💻 About Me
 
-I'm Narasimha — a developer who enjoys building things, understanding how they work, and turning ideas into real projects.
+I'm Narasimha, a CSE student working on web development and programming projects.
 
-- 🌐 Exploring full-stack web development
-- ⚛️ Building with React, Node.js, and Express
-- 🧠 Practicing Data Structures & Algorithms
-- 🗄️ Learning backend architecture and databases
-- 🐧 Exploring Linux, Bash, and developer tools
-- 🎬 Video editor interested in cinematic storytelling
-- 📷 Photography, creative experiments, and visual design
-
-> Learn → Build → Break → Fix → Repeat.
-
+- Currently learning React, Node.js, and Express
+- Practicing Java and Data Structures & Algorithms
+- Working with databases and Linux
+- Video editing and photography outside coding
 ---
 
 ## ⚡ Current Focus
