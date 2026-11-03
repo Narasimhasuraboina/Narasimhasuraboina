@@ -61,9 +61,14 @@ A full-stack application built with React, Node.js, Express, and MySQL for donor
   <a href="https://leetcode.com/u/Narasimhasuraboina/">
     <img src="https://leetcard.jacoblin.cool/Narasimhasuraboina?theme=dark&font=baloo&ext=heatmap" alt="LeetCode statistics and activity heatmap" />
   </a>
-  <br />
-  <a href="https://leetcode.com/u/Narasimhasuraboina/"><img src="https://leetinfo-api.vercel.app/api/badge?username=Narasimhasuraboina&stat=streak&label=Current%20Streak&color=FFA116" alt="LeetCode current streak" /></a>
-  <a href="https://leetcode.com/u/Narasimhasuraboina/"><img src="https://leetinfo-api.vercel.app/api/badge?username=Narasimhasuraboina&stat=longeststreak&label=Longest%20Streak&color=58A6FF" alt="LeetCode longest streak" /></a>
+  <br /><br />
+  <a href="https://leetcode.com/u/Narasimhasuraboina/">
+    <img src="https://leetinfo-api.vercel.app/api/badge?username=Narasimhasuraboina&stat=streak&label=Current%20Streak&color=FFA116" alt="LeetCode current streak" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Narasimhasuraboina/">
+    <img src="https://leetinfo-api.vercel.app/api/badge?username=Narasimhasuraboina&stat=longeststreak&label=Longest%20Streak&color=58A6FF" alt="LeetCode longest streak" />
+  </a>
 </div>
 
 ## 🎬 Beyond Code
