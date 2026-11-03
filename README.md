@@ -33,105 +33,15 @@ I'm Narasimha Suraboina, a Computer Science and Engineering student interested i
 🎬 Creative	DaVinci Resolve, video editing, photography
 
 
-</div>🩸 Featured Project
-<div align="center"><a href="https://github.com/Narasimhasuraboina/Blood-donation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narasimhasuraboina&repo=Blood-donation&theme=github_dark&hide_border=true" width="450" alt="Blood Donation Management System repository card"/>
-</a>Blood Donation Management System
-A full-stack application for managing blood donors, donation records, and blood requests.
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
-
-
-<a href="https://github.com/Narasimhasuraboina/Blood-donation">
-  <img src="https://img.shields.io/badge/EXPLORE_PROJECT-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Explore project"/>
-</a></div>📊 GitHub Analytics
-<div align="center"><a href="https://github.com/Narasimhasuraboina">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Narasimhasuraboina&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/Narasimhasuraboina">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narasimhasuraboina&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used programming languages"/>
-</a>
-
-
-<a href="https://github.com/Narasimhasuraboina">
-  <img width="90%" src="https://streak-stats.demolab.com/?user=Narasimhasuraboina&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub streak statistics"/>
+</div> 
+</a> 
 </a></div>🧊 Contribution Activity
 <div align="center"><!-- This image appears after the 3D contribution workflow generates the SVG files in this repository. -->
 <img width="95%" src="https://raw.githubusercontent.com/Narasimhasuraboina/Narasimhasuraboina/main/profile-3d-contrib/profile-night-green.svg" alt="3D GitHub contribution calendar"/></div>🧩 LeetCode Journey
 <div align="center"><a href="https://leetcode.com/u/Narasimhasuraboina/">
   <img src="https://leetcard.jacoblin.cool/Narasimhasuraboina?theme=dark&font=baloo&ext=heatmap" width="500" alt="LeetCode statistics and activity heatmap"/>
-</a></div>🛠️ Tech Stack
-<div align="center">Languages
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css&theme=dark" alt="Java, JavaScript, Python, HTML and CSS"/>Frontend
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="React, Vite and Tailwind CSS"/>Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sqlite&theme=dark" alt="Node.js, Express, MySQL and SQLite"/>Tools & Systems
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,bash&theme=dark" alt="Git, GitHub, VS Code, Docker, Linux and Bash"/>Creative
-🎬 DaVinci Resolve  ·  📷 Photography  ·  🎞️ Video Editing
-</div>🚀 Projects & Repositories
-<div align="center"><table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/Narasimhasuraboina/Blood-donation"><strong>🩸 Blood Donation</strong></a><br/>
-      <sub>Blood Donation Management System</sub><br/>
-      <img src="https://img.shields.io/github/stars/Narasimhasuraboina/Blood-donation?style=flat&color=58A6FF&label=stars" alt="Blood Donation stars"/>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Narasimhasuraboina/blood"><strong>🩸 blood</strong></a><br/>
-      <sub>Blood-related repository</sub><br/>
-      <img src="https://img.shields.io/github/stars/Narasimhasuraboina/blood?style=flat&color=58A6FF&label=stars" alt="blood repository stars"/>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Narasimhasuraboina/Chatforge"><strong>💬 Chatforge</strong></a><br/>
-      <sub>Chat application project</sub><br/>
-      <img src="https://img.shields.io/github/stars/Narasimhasuraboina/Chatforge?style=flat&color=58A6FF&label=stars" alt="Chatforge stars"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Narasimhasuraboina/Screen-ai"><strong>🤖 Screen-ai</strong></a><br/>
-      <sub>AI browser assistant project</sub><br/>
-      <img src="https://img.shields.io/github/stars/Narasimhasuraboina/Screen-ai?style=flat&color=58A6FF&label=stars" alt="Screen-ai stars"/>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Narasimhasuraboina/spotify-to-apple"><strong>🎵 Spotify to Apple</strong></a><br/>
-      <sub>Music library migration tool</sub><br/>
-      <img src="https://img.shields.io/github/stars/Narasimhasuraboina/spotify-to-apple?style=flat&color=58A6FF&label=stars" alt="Spotify to Apple stars"/>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Narasimhasuraboina/Travel"><strong>✈️ Travel</strong></a><br/>
-      <sub>Travel project</sub><br/>
-      <img src="https://img.shields.io/github/stars/Narasimhasuraboina/Travel?style=flat&color=58A6FF&label=stars" alt="Travel stars"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Narasimhasuraboina/portfolio"><strong>🧑‍💻 Portfolio</strong></a><br/>
-      <sub>Portfolio website</sub><br/>
-      <img src="https://img.shields.io/github/stars/Narasimhasuraboina/portfolio?style=flat&color=58A6FF&label=stars" alt="Portfolio stars"/>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Narasimhasuraboina/project-phoenix"><strong>🔥 Project Phoenix</strong></a><br/>
-      <sub>Project repository</sub><br/>
-      <img src="https://img.shields.io/github/stars/Narasimhasuraboina/project-phoenix?style=flat&color=58A6FF&label=stars" alt="Project Phoenix stars"/>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Narasimhasuraboina/fully-vibe-coded"><strong>🧪 fully-vibe-coded</strong></a><br/>
-      <sub>Creative coding project</sub><br/>
-      <img src="https://img.shields.io/github/stars/Narasimhasuraboina/fully-vibe-coded?style=flat&color=58A6FF&label=stars" alt="fully-vibe-coded stars"/>
-    </td>
-  </tr>
-</table></div>🧰 Learning & Experiments
-Repository	Link
-⚛️ Namaste-react — React learning	View ↗
-⚛️ react — React experiments	View ↗
-☕ java — Java practice	View ↗
-🌐 html_project — HTML project	View ↗
-🧩 play_ground — Experiments and practice	View ↗
-🐚 terminal — Terminal-related project	View ↗
-🐚 cmd — Command-line repository	View ↗
-🎨 visual — Visual project	View ↗
+</a></div> 
+ 
 
 
 🎬 Beyond Code
