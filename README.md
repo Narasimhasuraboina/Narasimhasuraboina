@@ -36,13 +36,13 @@ Ensure the files exist on your main branch before using these URLs.
 <img width="95%" src="https://raw.githubusercontent.com/Narasimhasuraboina/Narasimhasuraboina/main/profile-3d-contrib/profile-night-green.svg" alt="3D GitHub contribution calendar"/>
 </picture></div>
 
-## 🔥 Contribution Streak
 <div align="center">
+<h2>🔥 Contribution Streak</h2>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narasimhasuraboina&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" width="75%"/>
 </div>
 
-## 🐍 GitHub Contribution Snake
 <div align="center">
+<h2>🐍 GitHub Contribution Snake</h2>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Narasimhasuraboina/Narasimhasuraboina/output/github-snake-dark.svg"/>
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Narasimhasuraboina/Narasimhasuraboina/output/github-snake.svg"/>
